@@ -1,0 +1,4 @@
+/snap/clion/54/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_EXPORT_COMPILE_COMMANDS=ON -G "CodeBlocks - Unix Makefiles" /home/afterburner/CLionProjects/screws_and_nuts
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/afterburner/CLionProjects/screws_and_nuts/build

@@ -1,0 +1,5 @@
+/home/afterburner/CLionProjects/screws_and_nuts/build/CMakeFiles/rebuild_cache.dir
+/home/afterburner/CLionProjects/screws_and_nuts/build/CMakeFiles/histogram.dir
+/home/afterburner/CLionProjects/screws_and_nuts/build/CMakeFiles/binarization.dir
+/home/afterburner/CLionProjects/screws_and_nuts/build/CMakeFiles/main.dir
+/home/afterburner/CLionProjects/screws_and_nuts/build/CMakeFiles/edit_cache.dir

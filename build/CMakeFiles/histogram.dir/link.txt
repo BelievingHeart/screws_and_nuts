@@ -1,0 +1,2 @@
+/usr/bin/c++ -fPIC -g  -Wl,--no-as-needed -shared -Wl,-soname,libhistogram.so -o libhistogram.so CMakeFiles/histogram.dir/draw_histogram.cpp.o -Wl,-rpath,/usr/local/lib /usr/local/lib/libopencv_highgui.so.4.0.0 /usr/local/lib/libopencv_videoio.so.4.0.0 /usr/local/lib/libopencv_imgcodecs.so.4.0.0 /usr/local/lib/libopencv_imgproc.so.4.0.0 /usr/local/lib/libopencv_core.so.4.0.0 
+/snap/clion/54/bin/cmake/linux/bin/cmake -E __run_co_compile --lwyu=libhistogram.so

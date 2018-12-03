@@ -1,0 +1,2 @@
+/usr/bin/c++ -fPIC -g  -Wl,--no-as-needed -shared -Wl,-soname,libbinarization.so -o libbinarization.so CMakeFiles/binarization.dir/binarization.cpp.o -Wl,-rpath,/usr/local/lib:/home/afterburner/CLionProjects/screws_and_nuts/build /usr/local/lib/libopencv_imgproc.so.4.0.0 libhistogram.so /usr/local/lib/libopencv_core.so.4.0.0 
+/snap/clion/54/bin/cmake/linux/bin/cmake -E __run_co_compile --lwyu=libbinarization.so

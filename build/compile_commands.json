@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/afterburner/CLionProjects/screws_and_nuts/build",
+  "command": "/usr/bin/c++  -Dhistogram_EXPORTS -isystem /usr/local/include/opencv4  -g -fPIC   -std=gnu++14 -o CMakeFiles/histogram.dir/draw_histogram.cpp.o -c /home/afterburner/CLionProjects/screws_and_nuts/draw_histogram.cpp",
+  "file": "/home/afterburner/CLionProjects/screws_and_nuts/draw_histogram.cpp"
+},
+{
+  "directory": "/home/afterburner/CLionProjects/screws_and_nuts/build",
+  "command": "/usr/bin/c++  -Dbinarization_EXPORTS -isystem /usr/local/include/opencv4  -g -fPIC   -std=gnu++14 -o CMakeFiles/binarization.dir/binarization.cpp.o -c /home/afterburner/CLionProjects/screws_and_nuts/binarization.cpp",
+  "file": "/home/afterburner/CLionProjects/screws_and_nuts/binarization.cpp"
+},
+{
+  "directory": "/home/afterburner/CLionProjects/screws_and_nuts/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=gnu++14 -o CMakeFiles/main.dir/main.cpp.o -c /home/afterburner/CLionProjects/screws_and_nuts/main.cpp",
+  "file": "/home/afterburner/CLionProjects/screws_and_nuts/main.cpp"
+}
+]
